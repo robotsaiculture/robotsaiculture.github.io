@@ -4,4 +4,4 @@ title: Speakers and Panelists
 permalink: /speakers/
 ---
 
-Details Coming Soon
+Coming Soon
