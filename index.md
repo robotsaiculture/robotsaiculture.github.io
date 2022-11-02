@@ -27,7 +27,7 @@ Toshiba International Foundation (TIFO); Department of Media, Communications, Cr
 
 ![Toshiba](images/toshiba.png)
 
-![MQ](images/mg.png)
+![MQ](images/mq.png)
 
 ![MQ](images/u-of-sydney.jpg)
 
