@@ -2,6 +2,8 @@
 layout: page
 ---
 
+***Registration Form Coming Soon***
+
 Date: 	Wednesday, February 08 2023
 
 Venue: 2100 Learning studio, Abercrombie Business School, The University of Sydney
