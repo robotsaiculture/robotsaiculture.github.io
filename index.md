@@ -26,6 +26,8 @@ Ben Nickl, Justine Humphry, and Chris Chesher (University of Sydney)
 ### Supported by: 
 Toshiba International Foundation (TIFO); Department of Media, Communications, Creative Arts, Language and Literature, Macquarie University; and Department of Media and Communications, University of Sydney
 
+![Toshiba](images/toshiba.png)
+
 This symposium is associated with the 29th Annual Conference of the Australasian Humour Studies Network. 
 
 Contact: yuji.sone[at]mq.edu.au
