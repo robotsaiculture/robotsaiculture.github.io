@@ -1,12 +1,17 @@
 ---
 layout: page
 ---
+<html>
+<head>
+<style>
 <style>
 h1 {
   text-align: left;
   style="font-size:20px;"
 }
 </style>
+</head>
+<body>
 
 
 ***Registration Form Coming Soon***
