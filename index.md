@@ -1,6 +1,13 @@
 ---
 layout: page
 ---
+<style>
+h1 {
+  text-align: left;
+  style="font-size:20px;"
+}
+</style>
+
 
 ***Registration Form Coming Soon***
 
@@ -13,11 +20,6 @@ layout: page
 This symposium aims to explore the existing and possible future impacts of robotic and AI technologies. It draws its inspiration from Amara's Law, an aphorism stated by the late Roy Amara (the Institute for the Future): ‘We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run’ (Amara, 2006). To this end, the symposium aims to highlight the cultural interpretation and/or transference of technologies between cultures. Andrew Feenberg, a leading philosopher of technology, discusses the complex entanglements of technology, society, and culture in a globalised world. He uses the terms ‘branching’ and ‘layering’ to explain these relations (2010). In the branching of a technology, ‘the trace of [Western or dominant] values appears clearly in design features of technical artifacts’ in the new culture, though that particular technology might be layered on top of or beneath specific cultural values and codes (Feenberg 2010). 
 
 This event seeks to investigate, through discussion of case studies, where cultural values have influenced or are currently influencing the adoption or rejection of robotic and AI technologies, and how societies adapt to ‘new’ and ‘imported’ technologies. While a discussion of transference or adoption relates to both a ‘source’ culture and a ‘destination’ cultural context, practices that decentre practices that have been deemed central, or articulate how the ‘periphery’ has shaped or influenced the ‘centre’, will be examined. 
-
-h1 {
-  text-align: left;
-  style="font-size:20px;"
-}
 
 <h1>Keynote speakers: </h1>
 - Professor Kaoru Endo (Gakushuin University, Japan)
