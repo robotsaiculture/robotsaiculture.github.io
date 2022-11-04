@@ -29,23 +29,13 @@ Ben Nickl, Justine Humphry, and Chris Chesher (University of Sydney)
 Toshiba International Foundation (TIFO); Department of Media, Communications, Creative Arts, Language and Literature, Macquarie University; and Department of Media and Communications, University of Sydney
 
 
-<!-- |![Toshiba Logo](images/toshiba.png)|![MQ Logo](images/mq.png)|![USyd Logo](images/u-of-sydney.jpg)| -->
+|![Toshiba Logo](images/toshiba.png)|![MQ Logo](images/mq.png)|![USyd Logo](images/u-of-sydney.jpg)|
 <!-- 
 <img src="images/toshiba.png" alt="Toshiba" style="width:300px;"/>
 <img src="images/mq.png" alt="MQ" style="width:300px;"/>
 <img src="images/u-of-sydney.jpg" alt="usyd" style="width:300px;"/> -->
 
-<div class="row">
-  <div class="column">
-    <img src="images/toshiba.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/mq.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/u-of-sydney.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+
 
 
 
