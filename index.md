@@ -14,7 +14,7 @@ This symposium aims to explore the existing and possible future impacts of robot
 
 This event seeks to investigate, through discussion of case studies, where cultural values have influenced or are currently influencing the adoption or rejection of robotic and AI technologies, and how societies adapt to ‘new’ and ‘imported’ technologies. While a discussion of transference or adoption relates to both a ‘source’ culture and a ‘destination’ cultural context, practices that decentre practices that have been deemed central, or articulate how the ‘periphery’ has shaped or influenced the ‘centre’, will be examined. 
 
-<div style="text-align: left"> ### Keynote speakers: </div>#
+<div style="text-align: left"> <strong> Keynote speakers: <strong> </div>#
 - Professor Kaoru Endo (Gakushuin University, Japan)
 - Associate Professor Christoph Bartneck (University of Canterbury, New Zealand)
 
