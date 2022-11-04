@@ -2,8 +2,6 @@
 layout: page
 ---
 
-
-
 ***Registration Form Coming Soon***
 
 **Date:** 	Wednesday, February 08 2023
@@ -20,15 +18,15 @@ This event seeks to investigate, through discussion of case studies, where cultu
 - Professor Kaoru Endo (Gakushuin University, Japan)
 - Associate Professor Christoph Bartneck (University of Canterbury, New Zealand)
 
-<h1 style="font-size:8vw;"> The committee members </h1>
+<h1 style="font-size:20px;"> The committee members </h1>
 Yuji Sone (Organiser), Richard Savery, and Chris Muller (Macquarie University)
 Ben Nickl, Justine Humphry, and Chris Chesher (University of Sydney)
 
-<h1 style="font-size:8vw;"> Supported by: </h1>
+<h1 style="font-size:20px;"> Supported by: </h1>
 Toshiba International Foundation (TIFO); Department of Media, Communications, Creative Arts, Language and Literature, Macquarie University; and Department of Media and Communications, University of Sydney
 
 
-|![Toshiba Logo](images/toshiba.png)|![MQ Logo](images/mq.png)|![USyd Logo](images/u-of-sydney.jpg)|
+<!-- |![Toshiba Logo](images/toshiba.png)|![MQ Logo](images/mq.png)|![USyd Logo](images/u-of-sydney.jpg)| -->
 
 |<img src="images/toshiba.png" alt="Toshiba" style="width:300px;"/>
 <img src="images/mq.png" alt="MQ" style="width:300px;"/>
