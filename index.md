@@ -14,17 +14,17 @@ This symposium aims to explore the existing and possible future impacts of robot
 
 This event seeks to investigate, through discussion of case studies, where cultural values have influenced or are currently influencing the adoption or rejection of robotic and AI technologies, and how societies adapt to ‘new’ and ‘imported’ technologies. While a discussion of transference or adoption relates to both a ‘source’ culture and a ‘destination’ cultural context, practices that decentre practices that have been deemed central, or articulate how the ‘periphery’ has shaped or influenced the ‘centre’, will be examined. 
 
-<div align="left">
-<h1 style="font-size:18px;">Keynote speakers: </h1>
-</div>
+**Keynote Speakers:**
+
 - Professor Kaoru Endo (Gakushuin University, Japan)
 - Associate Professor Christoph Bartneck (University of Canterbury, New Zealand)
 
-<span style="font-size:larger;">The committee members</span>
+**The Committee Members**
+
 Yuji Sone (Organiser), Richard Savery, and Chris Muller (Macquarie University)
 Ben Nickl, Justine Humphry, and Chris Chesher (University of Sydney)
 
-<h1 style="font-size:20px;"> Supported by: </h1>
+**Supported by:**
 Toshiba International Foundation (TIFO); Department of Media, Communications, Creative Arts, Language and Literature, Macquarie University; and Department of Media and Communications, University of Sydney
 
 
