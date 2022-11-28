@@ -6,7 +6,7 @@ layout: page
 
 **Date:** 	Wednesday, February 08 2023
 
-**Venue:** 2100 Learning studio, Abercrombie Business School, The University of Sydney
+**Venue:** Case Study Lecture Theatre 2090, Abercrombie Business School, The University of Sydney 
 
 *A one-day symposium (in-person and via Zoom) on the cultural translation, transference, and adoption of developing technologies in robotics and artificial intelligence*
 
