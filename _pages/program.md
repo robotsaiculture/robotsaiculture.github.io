@@ -46,7 +46,7 @@ The process of creative human collaboration with AI and Robotics is underpinned 
 
 **Keynote speaker:** Associate Professor Christoph Bartneck (University of Canterbury.)
 
-Panel 2
+## Panel 2
 
 **Culture and Space: cultural negotiations of robots in everyday spaces**
 
