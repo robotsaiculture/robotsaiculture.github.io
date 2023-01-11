@@ -4,8 +4,6 @@ title: Program
 permalink: /program/
 ---
 
-**Program**
-
 | 8.40-9.00 | Arrive/coffee/welcome |
 | 9.00-10.00 | Keynote 1: **'Ethics and Cultural Context in the Age of AI'**  |
 | 10.00-11.30 | Panel 1: **'Creative Practice, Robotics and Artificial Intelligence: The Cultural Impact of Collaborating with Non-Humans'**  |
