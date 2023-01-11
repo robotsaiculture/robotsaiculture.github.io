@@ -6,23 +6,23 @@ permalink: /program/
 
 **Program**
 
-8.40-9.00          Arrive/coffee/welcome
+| 8.40-9.00 | Arrive/coffee/welcome |
 
-9.00-10.00        Keynote 1: **'Ethics and Cultural Context in the Age of AI'**
+| 9.00-10.00 | Keynote 1: **'Ethics and Cultural Context in the Age of AI'**  |
 
-10.00-11.30      Panel 1: **'Creative Practice, Robotics and Artificial Intelligence: The Cultural Impact of Collaborating with Non-Humans'**
+| 10.00-11.30 | Panel 1: **'Creative Practice, Robotics and Artificial Intelligence: The Cultural Impact of Collaborating with Non-Humans'**  |
 
-11.30-12.30      Lunch
+| 11.30-12.30 | Lunch  |
 
-12.30-1.30        Keynote 2: TBC
+| 12.30-1.30 | Keynote 2: TBC  |
 
-1.30-3.00          Panel 2: **'Culture and space, cultural representations of robots and avatars, embodiment & virtual worlds'**
+| 1.30-3.00 | Panel 2: **'Culture and Space: cultural negotiations of robots in everyday spaces'**  |
 
-3.00-3.30          Coffee break
+| 3.00-3.30 | Coffee break  |
 
-3.30-5.00          Panel 3: **'The datafication and digitalisation of humour'**
+| 3.30-5.00 | Panel 3: **'The datafication and digitalisation of humour'**  |
 
-5.00-5.30          Closing session
+| 5.00-5.30 | Closing session  |
 
 ## Keynote 1
 
