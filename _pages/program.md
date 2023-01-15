@@ -9,7 +9,7 @@ permalink: /program/
 | 10.00-11.30 | Panel 1: **'Creative Practice, Robotics and Artificial Intelligence: The Cultural Impact of Collaborating with Non-Humans'**  |
 | 11.30-12.30 | Lunch  |
 | 12.30-1.30 | Keynote 2: TBC  |
-| 1.30-3.00 | Panel 2: **'Culture and Space: cultural negotiations of robots in everyday spaces'**  |
+| 1.30-3.00 | Panel 2: **'Culture and Space: Cultural negotiations of robots in everyday spaces'**  |
 | 3.00-3.30 | Coffee break  |
 | 3.30-5.00 | Panel 3: **'The datafication and digitalisation of humour'**  |
 | 5.00-5.30 | Closing session  |
@@ -30,7 +30,7 @@ The process of creative human collaboration with AI and Robotics is underpinned 
 
 **Moderator:** Dr Richard Savery (Macquarie University)
 
-**Panellists:** Dr Juan Rubio (University of Texas at El Paso), Dr Chris Stanton (Western Sydney University/ Defence Science and Technology Group), and Dr Duri Long (Northwestern University), and Janet Biggs (Artist)
+**Panellists:** Janet Biggs (Artist), Dr Duri Long (Northwestern University), Dr Juan Rubio (University of Texas at El Paso) and Dr Chris Stanton (Western Sydney University/ Defence Science and Technology Group)
 
 ## Keynote 2
 
@@ -38,7 +38,7 @@ The process of creative human collaboration with AI and Robotics is underpinned 
 
 ## Panel 2
 
-**Culture and Space: cultural negotiations of robots in everyday spaces**
+**Culture and Space: Cultural negotiations of robots in everyday spaces**
 
 Everyday spaces are social and cultural productions that include a wide range of technologies that mediate and transform them. As robots are introduced into new settings such as schools, restaurants and public spaces they intervene in that space and undergo a process of cultural negotiation. In this panel we explore how robots are being designed for social roles in particular spaces and settings, what labour they perform in those spaces and how their intervention in space is received and negotiated. 
 
