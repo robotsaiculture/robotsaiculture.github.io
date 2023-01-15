@@ -44,3 +44,4 @@ Toshiba International Foundation (TIFO); Department of Media, Communications, Cr
 This symposium is associated with the 29th Annual Conference of the Australasian Humour Studies Network. 
 
 Contact: yuji.sone[at]mq.edu.au
+
