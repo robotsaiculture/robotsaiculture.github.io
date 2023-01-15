@@ -55,4 +55,3 @@ Laughter is one of the bodily responses that mediates the way users interact wit
 **Moderators:** Dr Ben Nickl (University of Sydney) and Dr Chris Muller (Macquarie University)
 
 **Panellists:** Dr Divesh Lala (Kyoto University)
-
