@@ -2,7 +2,7 @@
 layout: page
 ---
 
-***Registration Form Coming Soon***
+Registration for this event: [In-person](https://www.eventbrite.com/e/robots-ai-and-culture-in-person-tickets-510346599417) or [Zoom](https://www.trybooking.com/events/landing?eid=1007895&)
 
 **Date:** 	Wednesday, February 08 2023
 
