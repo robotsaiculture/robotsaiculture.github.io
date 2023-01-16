@@ -24,7 +24,7 @@ Due to rapid advances in ICT technology, robots and AI have become a commonplace
 
 ## Panel 1
 
-####Creative Practice, Robotics and Artificial Intelligence: The Cultural Process of Collaborating with Non-Humans
+#### Creative Practice, Robotics and Artificial Intelligence: The Cultural Process of Collaborating with Non-Humans
 
 The process of creative human collaboration with AI and Robotics is underpinned by the cultural decisions of the developers, users and future audience. This panel will explore how AI and robotics are being developed to collaborate, the cultural forces shaping their use in creative practice, and how the perception of creative AI collaborators varies from their reality.
 
