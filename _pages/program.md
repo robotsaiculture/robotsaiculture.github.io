@@ -34,6 +34,8 @@ The process of creative human collaboration with AI and Robotics is underpinned 
 
 ## Keynote 2
 
+### Better than us? The role of social robots.
+
 **Keynote speaker:** Associate Professor Christoph Bartneck (University of Canterbury.)
 
 Nearly every human-robot interaction paper starts with the assumption that social robots will play an important role in our society. It is unclear when this may happen. It is however clear, that it has not happened yet. I will discuss some of the ethical and practical concerns people have when interacting with a robot. What is ethical okay to do to them? What are we afraid of? What will the future of social robots be?
