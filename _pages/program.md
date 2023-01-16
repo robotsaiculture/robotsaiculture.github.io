@@ -24,7 +24,7 @@ Due to rapid advances in ICT technology, robots and AI have become a commonplace
 
 ## Panel 1
 
-**Creative Practice, Robotics and Artificial Intelligence: The Cultural Process of Collaborating with Non-Humans**
+####Creative Practice, Robotics and Artificial Intelligence: The Cultural Process of Collaborating with Non-Humans
 
 The process of creative human collaboration with AI and Robotics is underpinned by the cultural decisions of the developers, users and future audience. This panel will explore how AI and robotics are being developed to collaborate, the cultural forces shaping their use in creative practice, and how the perception of creative AI collaborators varies from their reality.
 
@@ -34,7 +34,7 @@ The process of creative human collaboration with AI and Robotics is underpinned 
 
 ## Keynote 2
 
-### Better than us? The role of social robots.
+#### Better than us? The role of social robots.
 
 **Keynote speaker:** Associate Professor Christoph Bartneck (University of Canterbury.)
 
@@ -42,7 +42,7 @@ Nearly every human-robot interaction paper starts with the assumption that socia
 
 ## Panel 2
 
-**Culture and Space: Cultural negotiations of robots in everyday spaces**
+#### Culture and Space: Cultural negotiations of robots in everyday spaces
 
 Everyday spaces are social and cultural productions that include a wide range of technologies that mediate and transform them. As robots are introduced into new settings such as schools, restaurants and public spaces they intervene in that space and undergo a process of cultural negotiation. In this panel we explore how robots are being designed for social roles in particular spaces and settings, what labour they perform in those spaces and how their intervention in space is received and negotiated. 
 
@@ -52,7 +52,7 @@ Everyday spaces are social and cultural productions that include a wide range of
 
 ## Panel 3
 
-**The datafication and digitalisation of humour**
+#### The datafication and digitalisation of humour
 
 Laughter is one of the bodily responses that mediates the way users interact with and perceive digital technologies. This interdisciplinary panel will explore the datafication and digitalisation of humour to delve into the culturally situated nature of technology. What does it mean to laugh with or laugh at technological objects, and what does it mean to feel laughed at by them? How is humour coded, quantified, and algorithmically validated and traded? These are some of the guiding questions that shape the panel discussion.
 
