@@ -8,7 +8,7 @@ permalink: /program/
 | 9.00-10.00 | Keynote 1: **'Ethics and Cultural Context in the Age of AI'**  |
 | 10.00-11.30 | Panel 1: **'Creative Practice, Robotics and Artificial Intelligence: The Cultural Impact of Collaborating with Non-Humans'**  |
 | 11.30-12.30 | Lunch  |
-| 12.30-1.30 | Keynote 2: TBC  |
+| 12.30-1.30 | Keynote 2: **'Better than us? The role of social robots'** |
 | 1.30-3.00 | Panel 2: **'Culture and Space: Cultural negotiations of robots in everyday spaces'**  |
 | 3.00-3.30 | Coffee break  |
 | 3.30-5.00 | Panel 3: **'The datafication and digitalisation of humour'**  |
@@ -35,6 +35,8 @@ The process of creative human collaboration with AI and Robotics is underpinned 
 ## Keynote 2
 
 **Keynote speaker:** Associate Professor Christoph Bartneck (University of Canterbury.)
+
+Nearly every human-robot interaction paper starts with the assumption that social robots will play an important role in our society. It is unclear when this may happen. It is however clear, that it has not happened yet. I will discuss some of the ethical and practical concerns people have when interacting with a robot. What is ethical okay to do to them? What are we afraid of? What will the future of social robots be?
 
 ## Panel 2
 
