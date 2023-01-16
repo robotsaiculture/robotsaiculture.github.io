@@ -16,7 +16,7 @@ permalink: /program/
 
 ## Keynote 1
 
-**Ethics and Cultural Context in the Age of AI**
+#### Ethics and Cultural Context in the Age of AI
 
 **Keynote speaker:** Professor Kaoru Endo (Gakushuin University)
 
