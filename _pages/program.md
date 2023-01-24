@@ -12,7 +12,8 @@ permalink: /program/
 | 1.30-3.00 | Panel 2: **'Culture and Space: Cultural negotiations of robots in everyday spaces'**  |
 | 3.00-3.30 | Coffee break  |
 | 3.30-5.00 | Panel 3: **'The datafication and digitalisation of humour'**  |
-| 5.00-5.30 | Closing session  |
+| 5.00-5:20 | Launch of a special issue of the **International Journal of Social Robotics: ‘Beyond Anthropomorphism’**  |
+| 5.20-5.35 | Closing remakrs  |
 
 ## Keynote 1
 
