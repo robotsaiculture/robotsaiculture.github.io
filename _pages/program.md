@@ -13,7 +13,7 @@ permalink: /program/
 | 3.00-3.30 | Coffee break  |
 | 3.30-5.00 | Panel 3: **'The datafication and digitalisation of humour'**  |
 | 5.00-5:20 | Launch of a special issue of the **International Journal of Social Robotics: ‘Beyond Anthropomorphism’**  |
-| 5.20-5.35 | Closing remakrs  |
+| 5.20-5.35 | Closing remarks  |
 
 ## Keynote 1
 
