@@ -2,11 +2,20 @@
 layout: page
 ---
 
-Registration for this event: [In-person](https://www.eventbrite.com/e/robots-ai-and-culture-in-person-tickets-510346599417) or [Zoom](https://www.trybooking.com/events/landing?eid=1007895&)
+<!-- 
+Registration for this event: [In-person](https://www.eventbrite.com/e/robots-ai-and-culture-in-person-tickets-510346599417) or [Zoom](https://www.trybooking.com/events/landing?eid=1007895&) -->
+
+**Symposium Recording**
+
+<iframe
+  src="https://www.youtube.com/watch?v=RwO2Yc7XBg4"
+  style="width:100%"
+></iframe>
 
 **Date:** 	Wednesday, February 08 2023
 
 **Venue:** Case Study Lecture Theatre 2090, Abercrombie Business School, The University of Sydney 
+
 
 *A one-day symposium (in-person and via Zoom) on the cultural translation, transference, and adoption of developing technologies in robotics and artificial intelligence*
 
