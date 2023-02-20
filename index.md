@@ -7,10 +7,7 @@ Registration for this event: [In-person](https://www.eventbrite.com/e/robots-ai
 
 **Symposium Recording**
 
-<iframe
-  src="https://www.youtube.com/watch?v=RwO2Yc7XBg4"
-  style="width:100%"
-></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RwO2Yc7XBg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Date:** 	Wednesday, February 08 2023
 
